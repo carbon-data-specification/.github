@@ -20,3 +20,5 @@ The Project additionally has a [Strategy Committee](https://lists.lfenergy.org/g
 - determining and recommending changes to the scope of the Project.
 
 If you have questions or concerns, please contact operations@carbondataspec.org.
+
+You can see the full calendar of community activities [here](https://open-web-calendar.herokuapp.com/calendar.html?specification_url=https://raw.githubusercontent.com/carbon-data-specification/.github/main/CDSC-Community-Calendar.json)
