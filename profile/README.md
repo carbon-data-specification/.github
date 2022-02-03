@@ -15,4 +15,4 @@ The Project is overseen by the [CDSC Technical Steering Committee (TSC)](https:/
 
 The Project additionally has a [Strategy Committee](https://lists.lfenergy.org/g/cdsc-strategy-committee) which is focused on 1) care and evolution of the specification; 2) enabling adoption; and 3) determining and recommending changes to the scope of the Project.
 
-If you have questions or concerns, please contact the [LF Energy staff](mailto:operations@lfenergy.org)
+If you have questions or concerns, please contact operations@carbondataspec.org.
