@@ -4,8 +4,8 @@ The Carbon Data Specification is a data dictionary for raw data and a standard f
 
 The Working Groups of the Project consist of:
 
-- [Customer Data Working Group](https://github.com/carbon-data-specification/Power-Systems-Data); and
-- [Power Systems Data Working Group](https://github.com/carbon-data-specification/Customer-Data)
+- [Customer Data Working Group](https://github.com/carbon-data-specification/Customer-Data); and
+- [Power Systems Data Working Group](https://github.com/carbon-data-specification/Power-Systems-Data)
 
 The Project is overseen by the [CDSC Technical Steering Committee (TSC)](https://lists.lfenergy.org/g/cdsc-tsc), which approves by up or down vote the final specifications, along with:
 
