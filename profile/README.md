@@ -7,7 +7,7 @@ The Working Groups of the Project consist of:
 - [Customer Data Working Group](https://github.com/carbon-data-specification/Customer-Data); and
 - [Power Systems Data Working Group](https://github.com/carbon-data-specification/Power-Systems-Data)
 
-The Project is overseen by the [CDSC Technical Steering Committee (TSC)](https://lists.lfenergy.org/g/cdsc-tsc), which approves by up or down vote the final specifications, along with:
+The Project is overseen by the [CDSC Technical Steering Committee (TSC)](https://github.com/carbon-data-specification/Steering_Committee), which approves by up or down vote the final specifications, along with:
 
 - Ensures alignment between working groups
 - Determines the allocation of resources (financial requests from LF Energy) will require a Strategic Member sponsoring the request which goes to the LF Energy Governing Board 
