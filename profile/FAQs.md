@@ -23,7 +23,7 @@ To help resource this project to enable adoption and implementation of what we p
   <summary>Who can vote?</summary>
   
   ## Who can vote?
-  Voting may depend on membership. 
+  All meetings are open to the community, but voting may depend on membership. For example, only General and Strategic members can vote in the Strategy Committee.
   * For details on how membership affects voting, see [here](https://github.com/carbon-data-specification/Steering_Committee/blob/main/rules_of_engagement.md#membership-benefits). 
   * For details on how technical decision making is done within the working groups, see [here](https://github.com/carbon-data-specification/Steering_Committee/blob/main/rules_of_engagement.md#technical-decision-making).
 </details>
