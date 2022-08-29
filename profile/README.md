@@ -13,8 +13,9 @@ The Project is overseen by the [CDSC Technical Steering Committee (TSC)](https:/
 - Determines the allocation of resources (financial requests from LF Energy) will require a Strategic Member sponsoring the request which goes to the LF Energy Governing Board 
 - Participation in the CDSC TSC is open all, but voting is restricted to LF Energy General and Strategic members only.
 
-The Project additionally has a [Strategy Committee](https://github.com/carbon-data-specification/Strategy_Committee) which is focused on:
+The Project has a joint [Strategy + Technical Alignment Sub-Committee](https://github.com/carbon-data-specification/Strategy_Committee) which is focused on:
 
+- alignment between working groups
 - care and evolution of the specification; 
 - enabling adoption; and 
 - determining and recommending changes to the scope of the Project.
