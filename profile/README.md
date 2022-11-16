@@ -7,19 +7,10 @@ The Working Groups of the Project consist of:
 - [Customer Data Working Group](https://github.com/carbon-data-specification/Customer-Data); and
 - [Power Systems Data Working Group](https://github.com/carbon-data-specification/Power-Systems-Data)
 
-The Project is overseen by the [CDSC Technical Steering Committee (TSC)](https://github.com/carbon-data-specification/Steering_Committee), which approves by up or down vote the final specifications, along with:
+The CDSC community meets every four weeks on Wednesdays at 8:00 am US Pacific Time/11:00am US Eastern Time/5:00pm Central European Time to align on the work happening in the working groups and assess the specification development process. Register for the meeting [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99111842486)
 
-- Ensures alignment between working groups
-- Determines the allocation of resources (financial requests from LF Energy) will require a Strategic Member sponsoring the request which goes to the LF Energy Governing Board 
-- Participation in the CDSC TSC is open all, but voting is restricted to LF Energy General and Strategic members only.
+The Project is overseen by the LF Energy Standards and Specifications Steering Committee, which approves by up or down vote the final specifications as well as ensuring the project has the needed resources to be successful.
 
-The Project has a joint [Strategy + Technical Alignment Sub-Committee](https://github.com/carbon-data-specification/Strategy_Committee) which is focused on:
-
-- alignment between working groups
-- care and evolution of the specification; 
-- enabling adoption; and 
-- determining and recommending changes to the scope of the Project.
-
-If you have questions or concerns, please contact operations@carbondataspec.org. For FAQs, see [here](https://github.com/carbon-data-specification/.github/blob/main/profile/FAQs.md).
+If you have questions or concerns, please contact [operations@carbondataspec.org](operations@carbondataspec.org). For FAQs, see [here](https://github.com/carbon-data-specification/.github/blob/main/profile/FAQs.md).
 
 You can see the full calendar of community activities [here](https://open-web-calendar.herokuapp.com/calendar.html?specification_url=https://raw.githubusercontent.com/carbon-data-specification/.github/main/CDSC-Community-Calendar.json)
