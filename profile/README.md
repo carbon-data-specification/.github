@@ -13,4 +13,4 @@ The Project is overseen by the LF Energy Standards and Specifications Steering C
 
 If you have questions or concerns, please contact [operations@carbondataspec.org](operations@carbondataspec.org). For FAQs, see [here](https://github.com/carbon-data-specification/.github/blob/main/profile/FAQs.md).
 
-You can see the full calendar of community activities [here](https://open-web-calendar.hosted.quelltext.eu/calendar.html?specification_url=https://raw.githubusercontent.com/carbon-data-specification/.github/main/CDSC-Community-Calendar.json)
+You can see the full calendar of community activities [here](https://calendar.carbondataspec.org)
