@@ -13,6 +13,6 @@ The Project is overseen by the LF Energy Standards and Specifications (LFESS) St
 
 If you have questions or concerns, please contact [operations@carbondataspec.org](operations@carbondataspec.org). For FAQs, see [here](https://github.com/carbon-data-specification/.github/blob/main/profile/FAQs.md).
 
-Participation in the project is open to all, but to contribute your company must join as an LFESS member. You can complete the membership application at [joinnoew.lfess.org](https://joinnow.lfess.org).
+Participation in the project is open to all, but to contribute your company must join as an LFESS member. You can complete the membership application at [joinnow.lfess.org](https://joinnow.lfess.org).
 
 You can see the full calendar of community activities [here](https://calendar.carbondataspec.org)
