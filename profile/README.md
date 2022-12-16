@@ -9,8 +9,10 @@ The Working Groups of the Project consist of:
 
 The CDSC community meets every four weeks on Wednesdays at 8:00 am US Pacific Time/11:00am US Eastern Time/5:00pm Central European Time to align on the work happening in the working groups and assess the specification development process. Register for the meeting [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99111842486)
 
-The Project is overseen by the LF Energy Standards and Specifications Steering Committee, which approves by up or down vote the final specifications as well as ensuring the project has the needed resources to be successful.
+The Project is overseen by the LF Energy Standards and Specifications (LFESS) Steering Committee, which approves by up or down vote the final specifications as well as ensuring the project has the needed resources to be successful.
 
 If you have questions or concerns, please contact [operations@carbondataspec.org](operations@carbondataspec.org). For FAQs, see [here](https://github.com/carbon-data-specification/.github/blob/main/profile/FAQs.md).
+
+Participation in the project is open to all, but to contribute your company must join as an LFESS member. You can complete the membership application at [joinnoew.lfess.org](https://joinnow.lfess.org).
 
 You can see the full calendar of community activities [here](https://calendar.carbondataspec.org)
