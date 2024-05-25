@@ -7,11 +7,11 @@ The Working Groups of the Project are specified by the category of data and stan
 - [Customer Data Working Group](https://customerdata.carbondataspec.org/); and
 - [Power Systems Data Working Group](https://powersystemsdata.carbondataspec.org/)
 
-Please visit the pages linked above for details on the respective scopes and how to get involved in each working group. There, you will find how to subscribe to the respective mailing list, calendar, and Slack channel. You can join the [cdsc-general](https://lists.lfenergy.org/g/cdsc-general) mailing list for high-level updates.
+Please visit the pages linked above for details on the respective scopes and how to get involved in each working group. You will find how to subscribe to the respective mailing list, calendar, and Slack channel there. For high-level updates, you can join the [cdsc-general](https://lists.lfenergy.org/g/cdsc-general) mailing list.
 
 Participation in the project is open to all, including reviewing public information on the repository, website, or mailing list; engaging on the mailing list or Slack channel; attending meetings; commenting on issues or pull requests; and forking the repositories to play around with code or documentation (we're open source!). However, to contribute comments, suggestions, or other content that will be included in our specifications or open pull requests with proposed changes to our repository or specifications, your company must join as an LFESS member (it's free!). You can complete the membership application at [joinnow.lfess.org](https://joinnow.lfess.org).
 
-The CDSC community meets on the second Wednesday of each month at 8:00 am US Pacific Time/11:00 am US Eastern Time/5:00 pm Central European Time to align the work across the working groups and assess the specification development process. Meeting minutes are saved to a shared [Google Drive folder](https://drive.google.com/corp/drive/folders/1FZNXAgUY_MEez_d89FX9j_4xK04YAFnV). Register for the meeting [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99111842486?password=1218d1b4-d375-4464-8ce6-305cb48f849a). 
+The CDSC community meets on the second Wednesday of each month at 8:00 am US Pacific Time/11:00 am US Eastern Time/5:00 pm Central European Time to align the work across the working groups and assess the specification development process; you can track the discussion items [here](https://github.com/orgs/carbon-data-specification/projects/1). Register for the meeting [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/99111842486?password=1218d1b4-d375-4464-8ce6-305cb48f849a). 
 
 You can see the full calendar of community activities [here](https://calendar.carbondataspec.org) (note the timezone in the bottom left corner of the page).
 
