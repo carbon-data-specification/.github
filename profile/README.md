@@ -4,8 +4,10 @@ The Carbon Data Specification is a data dictionary for raw data and a standard f
 
 The Working Groups of the Project are specified by the category of data and standards that they will include, namely:
 
-- [Customer Data Working Group](https://customerdata.carbondataspec.org/); and
+- [Connectivity Working Group](https://connectivity.carbondataspec.org/)
 - [Power Systems Data Working Group](https://powersystemsdata.carbondataspec.org/)
+- [Customer Data Working Group](https://customerdata.carbondataspec.org/)
+
 
 Please visit the pages linked above for details on the respective scopes and how to get involved in each working group. You will find how to subscribe to the respective mailing list, calendar, and Slack channel there. For high-level updates, you can join the [cdsc-general](https://lists.lfenergy.org/g/cdsc-general) mailing list.
 
