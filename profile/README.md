@@ -1,5 +1,8 @@
 ![Carbon Data Specifications Consortium](https://artwork.lfess.energy/projects/cdsc/horizontal/color/cdsc-horizontal-color.svg)
 
+Let us know how important this is to you!  
+[Take Survey](https://docs.google.com/forms/d/e/1FAIpQLSdMrsFjjUax5MlQuSDBE2EpxIgiC7HO6NY5vP7ec1Mn0KIXcA/viewform)
+
 The Carbon Data Specification is a data dictionary for raw data and a standard for data requirements that enable energy data access for measuring, quantifying, and tracking carbon emissions from energy production and consumption. These standards and requirements should boost confidence in data sources, increase data utilization, promote scalability, and enable data aggregation for centralized platforms, supporting and informing grid decarbonization pathways and decision-making.
 
 The Working Groups of the Project are specified by the category of data and standards that they will include, namely:
